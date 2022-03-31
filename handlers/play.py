@@ -135,7 +135,7 @@ async def play(_, message: Message):
         await USER.get_chat(chid)
     except:
         await lel.edit(
-            f"<i>Hey {user.first_name}, 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 🎸 𝐔𝐬𝐞𝐫𝐁𝐨𝐭 𝐈𝐬 𝐍𝐨𝐭 𝐈𝐧 𝐓𝐡𝐢𝐬 𝐂𝐡𝐚𝐭' 𝐀𝐝𝐦𝐢𝐧 se bolo /play commond dale group mai😎 𝐅𝐨𝐫 𝐅𝐢𝐫𝐬𝐭 𝐓𝐢𝐦𝐞 𝐓𝐨 𝐀𝐝𝐝 𝐈𝐭 𝐀𝐧𝐲 𝐇𝐞𝐥𝐩 𝐃𝐦 :- ✨ [❛-𝐌𝐫 𝐎𝐖𝐍𝐄𝐑](https://t.me/classy_network) ❤️🥀 </i>")
+            f"<i>Hey {user.first_name}, 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 🎸 𝐔𝐬𝐞𝐫𝐁𝐨𝐭 𝐈𝐬 𝐍𝐨𝐭 𝐈𝐧 𝐓𝐡𝐢𝐬 𝐂𝐡𝐚𝐭' 𝐀𝐝𝐦𝐢𝐧 se bolo /play commond dale group mai😎 𝐅𝐨𝐫 𝐅𝐢𝐫𝐬𝐭 𝐓𝐢𝐦𝐞 𝐓𝐨 𝐀𝐝𝐝 𝐈𝐭 𝐀𝐧𝐲 𝐇𝐞𝐥𝐩 𝐃𝐦 :- ✨ [❛-𝐌𝐫 𝐎𝐖𝐍𝐄𝐑](https://t.me/I_AM_KING_OP) ❤️🥀 </i>")
         return
     
     audio = (
@@ -153,7 +153,7 @@ async def play(_, message: Message):
 
         file_name = get_file_name(audio)
         title = file_name
-        thumb_name = "https://te.legra.ph/file/86aa550f64231113c8162.jpg"
+        thumb_name = "https://te.legra.ph/file/1cecce7c41d4f3fc5f0fc.jpg"
         thumbnail = thumb_name
         duration = round(audio.duration / 60)
         views = "Locally added"
@@ -163,21 +163,21 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
-                            url=f"https://t.me/invisible_avneesh")
+                            url=f"https://t.me/SHAYRI_AND_PICS")
                ],
                [
                     InlineKeyboardButton(
                             text="OWNER",
-                            url=f"https://t.me/classy_network"),
+                            url=f"https://t.me/I_AM_KING_OP"),
                             
                     InlineKeyboardButton(
                             text="𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🥀",
-                            url=f"https://t.me/invisible_avneesh")
+                            url=f"https://t.me/freinnd")
                ],
                [
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/secretgroupc")
+                            url=f"https://t.me/freinnd")
                    
                 ]
             ]
@@ -216,21 +216,21 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
-                            url=f"https://t.me/invisible_avneesh")
+                            url=f"https://t.me/SHAYRI_AND_PICS")
                ],
                [
                     InlineKeyboardButton(
                             text="OWNER",
-                            url=f"https://t.me/classy_network"),
+                            url=f"https://t.me/I_AM_KING_OP"),
                             
                     InlineKeyboardButton(
                             text="𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🥀",
-                            url=f"https://t.me/invisible_avneesh")
+                            url=f"https://t.me/freinnd")
                ],
                [
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/secretgroupc")
+                            url=f"https://t.me/freinnd")
                    
                 ]
             ]
@@ -238,7 +238,7 @@ async def play(_, message: Message):
 
         except Exception as e:
             title = "NaN"
-            thumb_name = "https://te.legra.ph/file/86aa550f64231113c8162.jpg"
+            thumb_name = "https://te.legra.ph/file/1cecce7c41d4f3fc5f0fc.jpg"
             duration = "NaN"
             views = "NaN"
             keyboard = InlineKeyboardMarkup(
@@ -246,21 +246,21 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
-                            url=f"https://t.me/invisible_avneesh")
+                            url=f"https://t.me/SHAYRI_AND_PICS")
                ],
                [
                     InlineKeyboardButton(
                             text="OWNER",
-                            url=f"https://t.me/classy_network"),
+                            url=f"https://t.me/I_AM_KING_OP"),
                             
                     InlineKeyboardButton(
                             text="𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🥀",
-                            url=f"https://t.me/invisible_avneesh")
+                            url=f"https://t.me/freinnd")
                ],
                [
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/secretgroupc")
+                            url=f"https://t.me/freinnd")
                    
                 ]
             ]
